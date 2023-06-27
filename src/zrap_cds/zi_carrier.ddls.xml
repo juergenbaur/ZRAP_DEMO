@@ -4,9 +4,9 @@
   <asx:values>
    <DDLS>
     <DDLNAME>ZI_CARRIER</DDLNAME>
-    <DDLANGUAGE>D</DDLANGUAGE>
-    <DDTEXT>Fluggesellschaft</DDTEXT>
-    <SOURCE_TYPE>V</SOURCE_TYPE>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <DDTEXT>Read-Only E2E: Data Model Carrier</DDTEXT>
+    <SOURCE_TYPE>W</SOURCE_TYPE>
    </DDLS>
   </asx:values>
  </asx:abap>

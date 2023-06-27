@@ -1,7 +1,4 @@
-projection;
-
-define behavior for ZC_RAP_PurchaseOrderOwn_M alias PurchaseOrder
+unmanaged;
+define behavior for ZC_RAP_PURCHASEORDEROWN_M
 {
-  use create;
-  use delete;
 }
